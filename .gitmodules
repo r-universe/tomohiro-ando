@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PDMIF"]
+	path = PDMIF
+	url = https://github.com/tomohiro-ando/pdmif
+	shallow = true
+	registered = true
